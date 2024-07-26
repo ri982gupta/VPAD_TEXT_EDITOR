@@ -1,0 +1,2 @@
+Richa Gupta,richagupta123.iimt@gmail.com,20,Female,Student,YES
+Richa,richa@gmail.com,20,Female,Student,YES
